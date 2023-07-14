@@ -9,7 +9,7 @@
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 ### Github 活跃度
-[![](https://activity-graph.herokuapp.com/graph?username=942941469&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=942941469&repo=phoneweb-base&theme=dark)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=942941469&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=942941469&langs_count=6)
